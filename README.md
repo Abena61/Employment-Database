@@ -1,4 +1,4 @@
-# Employee Position Data Analysis and Database Management
+# Employee DataSet Analysis
 
 This project involves extracting, normalizing, segmenting, and managing employee position and job data into a relational database using MySQL Workbench. The objective is to optimize the dataset for querying, analysis, and reporting by following best practices in data normalization and relational database management.
 
