@@ -67,4 +67,4 @@ The data has been segmented into the following CSV files:
 ## Conclusion
 
 This project demonstrates efficient data normalization, segmentation, and management practices. By using Power Query for data processing, MySQL Workbench for database management, and ERD for schema design, the project ensures that the data is structured in a way that supports efficient analysis and querying, ultimately enabling valuable insights into employment trends, job position distribution, and wage analytics.
-# Employment-Database
+#SQL !Pytho # LargeDataSet
